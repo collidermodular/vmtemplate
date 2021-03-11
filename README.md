@@ -7,6 +7,7 @@ IntelliJ template for my typical Voltage Modular Designer JAR project
  * Maven support
  * JUnit / Jupiter / Mockito dependencies
  * Basic JAR artifact export setup
+ * Cmd+B builds JAR artifact (same as VM Designer)
  
 ## Installation
 
